@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is jenish and I'm a python learner, from gujrat</p>
+<p align="left">My name is jenish and I'm a python learner,</p>
 
 ###
 
