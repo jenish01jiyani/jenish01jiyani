@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating problems and design<br>📚 I'm currently learning C.E.<br>🎯 my Goals is to make one stop solution ai<br>🎲 Fun fact about me is that i am crazy websurfer i laugh with logic</p>
+<p align="left">✨ Creating problems and design<br>📚 I'm currently doing C.E.<br>🎯 my Goals is to make one stop solution ai<br>🎲 Fun fact about me is that i am crazy websurfer i laugh with logic</p>
 
 ###
 
